@@ -16,7 +16,7 @@ Curioso sobre Tecnologia da Informação.
 &nbsp;<a href="https://br.linkedin.com/in/lucas-leal-santos">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://llucaslleall.medium.com/](https://instagram.com/_d1eg0_n?igshid=NGExMmI2YTkyZg==">
+&nbsp;<a href="https://instagram.com/_d1eg0_n?igshid=NGExMmI2YTkyZg==">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
 <a href="https://www.instagram.com/_llucaslleall/">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
