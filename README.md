@@ -18,7 +18,7 @@ Curioso sobre Tecnologia da Informação.
 </a>&nbsp;
 &nbsp;<a href="https://instagram.com/_d1eg0_n?igshid=NGExMmI2YTkyZg==">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
-<a href="https://www.instagram.com/_llucaslleall/">
+<a href="https://discord.com/channels/@me">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
 </a>&nbsp;
 
