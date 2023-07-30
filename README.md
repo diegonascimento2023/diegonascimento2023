@@ -26,7 +26,7 @@ Curioso sobre Tecnologia da Informação.
 ### 📊 Estatísticas
 <div>
   <a href="https://github.com/diegonascimento2023">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegonascimento2023&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegonascimento2023&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegonascimento2023&layout=compact&langs_count=7&count_private=true&theme=chartreuse-dark"/>
  </a>
 </div>
